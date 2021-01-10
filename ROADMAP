@@ -1,0 +1,21 @@
+ROADMAP:
+
+### MVP
+
+- Los platos, recetas e ingredientes se meten manualmente en un JSON.
+- La app sirve para seleccionar varios platos (sin assignar a dias, sin saber para cuanta gente es) y te muestra lista de la compra
+
+### v2
+
+- Sale una lista con un enlace a dónde comprarlo
+- Sale una lista de platos con enlace a receta
+
+
+### Ideas:
+
+- Medidor de como de elaborado es:
+    - Tiempo de receta
+    - Nivel de cacharros ensuciados
+    - Cómo de pendiente debes estar
+
+    

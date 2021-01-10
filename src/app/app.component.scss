@@ -1,0 +1,12 @@
+app-root {
+    .content {
+        display: flex;
+        & > * {
+            flex: 0 1 50%;
+        }
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+}
